@@ -1,24 +1,24 @@
 # Fdb version 4
-["biber build/thesis"] 1736523173.52561 "build/thesis.bcf" "build/thesis.bbl" "build/thesis" 1736593854.7229 0
-  "build/thesis.bcf" 1736593854 108602 407f65d4915885ab6cbe6995d3fd3ab8 "pdflatex"
+["biber build/thesis"] 1736523173.52561 "build/thesis.bcf" "build/thesis.bbl" "build/thesis" 1737989361.66002 0
+  "build/thesis.bcf" 1737989361 108602 407f65d4915885ab6cbe6995d3fd3ab8 "pdflatex"
   "thesis.bib" 1736522724 499 1de60c7a6cfe8643d88ce065aaecd6f2 ""
   (generated)
   "build/thesis.bbl"
   "build/thesis.blg"
   (rewritten before read)
-["pdflatex"] 1736593849.55585 "c:/Users/jolu2/Masteroppgave/Pull from NTNU template/thesis-NTNU/thesis.tex" "build/thesis.pdf" "thesis" 1736593854.72433 0
+["pdflatex"] 1737989356.97251 "c:/Users/jolu2/Masteroppgave/Pull from NTNU template/thesis-NTNU/thesis.tex" "build/thesis.pdf" "thesis" 1737989361.66118 0
   "appendices/NTNUProsjektavtale.pdf" 1736522724 350220 bdad98c19a949dc3a2e2fae0ccd7d07d ""
   "appendices/a-appendix.tex" 1736522724 1176 c6c2635034a84c3358ffebc22ca7fd7a ""
   "build/thesis.acr" 0 -1 0 ""
-  "build/thesis.aux" 1736593854 11787 a349e85856bba0ee5dbf849f8beea2ae "pdflatex"
+  "build/thesis.aux" 1737989361 11787 a349e85856bba0ee5dbf849f8beea2ae "pdflatex"
   "build/thesis.bbl" 1736523176 3184 fb43aebcbf0d3d993b9ea292e8b74cd7 "biber build/thesis"
   "build/thesis.gls" 0 -1 0 ""
-  "build/thesis.lof" 1736593854 415 63e46d908bea3299a4931572ed0086aa "pdflatex"
-  "build/thesis.lol" 1736593854 696 0aec5a6304616fa3fce47a3c76e5346e "pdflatex"
-  "build/thesis.lot" 1736593854 378 a24a13056d3ca297f7ca331ffa3cfd70 "pdflatex"
-  "build/thesis.out" 1736593854 5439 d74ab789cc2d472af8494004ec3df099 "pdflatex"
-  "build/thesis.run.xml" 1736593854 2415 f0d9599e5a734cd202d579bbf76dc024 "pdflatex"
-  "build/thesis.toc" 1736593854 2993 146361644e50745c47809dc56cbcbc05 "pdflatex"
+  "build/thesis.lof" 1737989361 415 63e46d908bea3299a4931572ed0086aa "pdflatex"
+  "build/thesis.lol" 1737989361 696 0aec5a6304616fa3fce47a3c76e5346e "pdflatex"
+  "build/thesis.lot" 1737989361 378 a24a13056d3ca297f7ca331ffa3cfd70 "pdflatex"
+  "build/thesis.out" 1737989361 5439 d74ab789cc2d472af8494004ec3df099 "pdflatex"
+  "build/thesis.run.xml" 1737989361 2415 f0d9599e5a734cd202d579bbf76dc024 "pdflatex"
+  "build/thesis.toc" 1737989361 2993 146361644e50745c47809dc56cbcbc05 "pdflatex"
   "c:/Users/jolu2/Masteroppgave/Pull from NTNU template/thesis-NTNU/thesis.tex" 1736522724 931 db4481ddf1444fa50ee12d06570af768 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1736452879 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/dejavu/dejavumono_t1-type1.enc" 1736452699 2620 1ef8c8026e6f0fc7a8bfd158c7dfbe38 ""
@@ -254,9 +254,9 @@
   "chapters/0a-abstract.tex" 1736522724 449 c7bbe08edec30bc9cc0c59bbfc119589 ""
   "chapters/0b-sammendrag.tex" 1736522724 465 385faa3d8aac419cbe130fdc776d5436 ""
   "chapters/1-introduction.tex" 1736522724 1229 bffccb16701eb8db004b736b70fdb182 ""
-  "chapters/2-usage.tex" 1736593848 17779 27ebf352133f9f5ea6f8edaf2e4ff75c ""
-  "chapters/3-structure.tex" 1736593277 14682 f5d7c18dadf26c141dc3c85fdf3a4c7d ""
-  "chapters/4-conclusion.tex" 1736522724 116 78fdc956e0946618d4e2bbd9fb83ac2c ""
+  "chapters/2-usage.tex" 1736623218 17779 27ebf352133f9f5ea6f8edaf2e4ff75c ""
+  "chapters/3-structure.tex" 1737989355 14681 b79070f28d82341d2c64c1112e62b3c0 ""
+  "chapters/4-conclusion.tex" 1737978873 116 78fdc956e0946618d4e2bbd9fb83ac2c ""
   "chapters/papers.tex" 1736522724 343 fd28ba401b43c247b26f0e45ad8ee700 ""
   "csvtables/ageiq.csv" 1736522724 49 fbde8fc6ae5223d0fd209660248cc2f4 ""
   "figures/kart_student.png" 1736522724 869216 36cbd4281ff98aec06898116d240de44 ""
